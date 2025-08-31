@@ -23,5 +23,6 @@
 
 ### Notes:
 - Never worked on coding. So zero knowledge with programming logic. Want to work on Coding part, may be go or python. Lets see how many working scripts I can write.
+- Use helm charts to install apps or tools
 
 Lets see how it goes.
