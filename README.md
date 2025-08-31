@@ -7,7 +7,7 @@
 - Lets create the infra where it goes into hibernate mode, when not in use, like entire infra should go offline until I start hitting the website.
 - Secure the cloud account details, have one place configuration for all the secrets.
 
-# Plan for Infrastructure: 
+### Plan for Infrastructure: 
 - Cloud: AWS or GCP
 - Kubernetes: Combined on-prem and EC2 managed K8s deployment
 - CICD: Github Actions
@@ -18,10 +18,10 @@
 - Autoscale: **Karpenter** because of Spot instances - no ASGs, no Launch templates, lets see how to make this possible
 - Ingress: Nginx or istio
 
-# Application:
+### Application:
 - Google's Micro demo app: https://github.com/GoogleCloudPlatform/microservices-demo
 
-#Notes:
+### Notes:
 - Never worked on coding. So zero knowledge with programming logic. Want to work on Coding part, may be go or python. Lets see how many working scripts I can write.
 
 Lets see how it goes.
